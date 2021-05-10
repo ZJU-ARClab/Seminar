@@ -1,7 +1,8 @@
 # Agenda 2021
 
-Please upload your **slides** or a **introduction (Chinese or English)** of your presentation **in advance**,
-such as **conference, title, abstract**，which can be written in the form of markdown. Please add your title and link in the agenda.
+- Please upload your **slides** or a **introduction (Chinese or English)** of your presentation **in advance**, such as **conference, title, abstract**，which can be written in the form of markdown. 
+- Please add your title and link in the agenda.
+- 30 minutes for each speaker.
 
 **Location**： Caoxi 401 or DingTalk
 
