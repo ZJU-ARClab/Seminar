@@ -1,6 +1,6 @@
 # Agenda 2021
 
-- Please upload your **slides** or a **introduction (Chinese or English)** of your presentation **in advance**, such as **conference, title, abstract**，which can be written in the form of markdown. 
+- Please upload your **slides** or **introduction (Chinese or English)** of your presentation **in advance**, such as **conference, title, abstract**.
 - Please add your title and link in the agenda.
 - 30 minutes for each speaker.
 
