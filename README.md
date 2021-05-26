@@ -23,16 +23,19 @@
 </tr>
 <tr>
     <td> 林东宇 </td>
-	<td><a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-05-20">An Introduction to Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting</a> </td>
+    <td><a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-05-20">An Introduction to Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting</a> </td>
 </tr>
 
 <tr style="border-top:2px solid;">
     <th rowspan=2> 2021/05/27 </th>
-    <td>   </td>
-    <td rowspan=2> <a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-05-27">title</a> </td>
+    <td> 蒋骁翀  </td>
+    <td><a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-05-27">title</a></td>
 </tr>
-<tr>
-    <td>   </td>
+<tr style="border-top:2px solid;">
+    <td> 刘剑文  </td>
+    <td> <a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-05-27">title</a></td>
 </tr>
+	
+
 
 </table>
