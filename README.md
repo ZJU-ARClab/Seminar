@@ -29,7 +29,7 @@
 <tr style="border-top:2px solid;">
     <th rowspan=2> 2021/05/27 </th>
     <td> 蒋骁翀  </td>
-    <td><a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-05-27">An Introduction to Software-Defined  Networking (SDN)![image](https://user-images.githubusercontent.com/25504152/119679426-ec9a0c80-be72-11eb-95f5-9956015427d8.png)
+    <td><a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-05-27">An Introduction to Software-Defined  Networking (SDN)
 </a></td>
 </tr>
 <tr style="border-top:2px solid;">
