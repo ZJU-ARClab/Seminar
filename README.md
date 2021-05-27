@@ -32,9 +32,9 @@
     <td><a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-05-27">An Introduction to Software-Defined  Networking (SDN)
 </a></td>
 </tr>
-<tr style="border-top:2px solid;">
+<tr >
     <td> 刘剑文  </td>
-    <td> <a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-05-27">title</a></td>
+    <td> <a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-05-27">Fondation of FPGA Application Design </a></td>
 </tr>
 	
 
