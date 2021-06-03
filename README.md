@@ -16,6 +16,7 @@
     <th> Speaker </th>
     <th style="width:600px;"> Title </th>
 </tr>
+
 <tr style="border-top:2px solid;">
     <th rowspan=2> 2021/05/20 </th>
     <td> 陆涛 </td>
@@ -36,7 +37,16 @@
     <td> 刘剑文  </td>
     <td> <a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-05-27">Fondation of FPGA Application Design </a></td>
 </tr>
-	
+
+<tr style="border-top:2px solid;">
+    <th rowspan=2> 2021/06/03 </th>
+    <td> 孙锦涛 </td>
+    <td><a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-06-03"> xxxx </a></td>
+</tr>
+<tr >
+    <td> 林东宇 </td>
+    <td> <a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-06-03"> Transformer </a></td>
+</tr>
 
 
 </table>
