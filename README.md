@@ -40,7 +40,6 @@
 
 <tr style="border-top:2px solid;">
     <th rowspan=2> 2021/06/03 </th>
-<<<<<<< HEAD
     <td> 孙锦涛 </td>
     <td><a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-06-03"> Attention Is All You Need </a></td>
 </tr>
