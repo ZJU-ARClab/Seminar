@@ -45,7 +45,7 @@
 </tr>
 <tr >
     <td> 林东宇 </td>
-    <td> <a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-06-03"> Transformer </a></td>
+    <td> <a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-06-03"> Transformer for NLP </a></td>
 </tr>
 
 
