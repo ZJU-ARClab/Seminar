@@ -55,7 +55,7 @@
 </tr>
 <tr >
     <td> 江鑫楠 </td>
-    <td> <a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-06-10"> ... </a></td>
+    <td> <a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-06-10"> federated model distillation with noise-free differential privacy </a></td>
 </tr>
 
 <tr style="border-top:2px solid;">
