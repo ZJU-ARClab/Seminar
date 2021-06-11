@@ -60,13 +60,42 @@
 
 <tr style="border-top:2px solid;">
     <th rowspan=2> 2021/06/17 </th>
-    <td> 高祺 </td>
+    <td> 李唯贤 </td>
     <td><a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-06-17"> ... </a></td>
 </tr>
 <tr >
-    <td> 李唯贤 </td>
+    <td> 王淼 </td>
     <td> <a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-06-17"> ... </a></td>
 </tr>
 
+<tr style="border-top:2px solid;">
+    <th rowspan=2> 2021/06/24 </th>
+    <td> 宋天泽 </td>
+    <td><a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-06-24"> ... </a></td>
+</tr>
+<tr >
+    <td> 潘承愿 </td>
+    <td> <a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-06-24"> ... </a></td>
+</tr>
+
+<tr style="border-top:2px solid;">
+    <th rowspan=2> 2021/07/01 </th>
+    <td> 徐巧颖 </td>
+    <td><a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-07-01"> ... </a></td>
+</tr>
+<tr >
+    <td> 余瑞璟 </td>
+    <td> <a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-07-01"> ... </a></td>
+</tr>
+
+<tr style="border-top:2px solid;">
+    <th rowspan=2> 2021/07/08 </th>
+    <td> 高祺 </td>
+    <td><a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-07-08"> ... </a></td>
+</tr>
+<tr >
+    <td> 陆涛 </td>
+    <td> <a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-07-08"> ... </a></td>
+</tr>
 
 </table>
