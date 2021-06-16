@@ -61,7 +61,7 @@
 <tr style="border-top:2px solid;">
     <th rowspan=2> 2021/06/17 </th>
     <td> 李唯贤 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-06-17"> ... </a></td>
+    <td><a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-06-17"> Zero Knowledge Proofs for Decision Tree Predictions and Accuracy </a></td>
 </tr>
 <tr >
     <td> 王淼 </td>
