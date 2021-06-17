@@ -80,7 +80,7 @@
 
 <tr style="border-top:2px solid;">
     <th rowspan=2> 2021/07/01 </th>
-    <td> 徐巧颖 </td>
+    <td> 高祺 </td>
     <td><a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-07-01"> ... </a></td>
 </tr>
 <tr >
@@ -90,7 +90,7 @@
 
 <tr style="border-top:2px solid;">
     <th rowspan=2> 2021/07/08 </th>
-    <td> 高祺 </td>
+    <td> 徐巧颖 </td>
     <td><a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-07-08"> ... </a></td>
 </tr>
 <tr >
