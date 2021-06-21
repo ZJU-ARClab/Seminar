@@ -71,7 +71,7 @@
 <tr style="border-top:2px solid;">
     <th rowspan=2> 2021/06/24 </th>
     <td> 宋天泽 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-06-24"> ... </a></td>
+    <td><a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-06-24"> Utilizing hard cores of modern FPGA devices - AES </a></td>
 </tr>
 <tr >
     <td> 潘承愿 </td>
