@@ -75,7 +75,7 @@
 </tr>
 <tr >
     <td> 潘承愿 </td>
-    <td> <a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-06-24"> ... </a></td>
+    <td> <a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-06-24"> Efficient FPGA Modular Multiplication Implementation </a></td>
 </tr>
 
 <tr style="border-top:2px solid;">
