@@ -81,7 +81,7 @@
 <tr style="border-top:2px solid;">
     <th rowspan=2> 2021/07/01 </th>
     <td> 高祺 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-07-01"> ... </a></td>
+    <td><a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-07-01"> Understanding Black-box Predictions via Influence Functions </a></td>
 </tr>
 <tr >
     <td> 余瑞璟 </td>
