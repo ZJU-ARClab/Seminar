@@ -85,7 +85,7 @@
 </tr>
 <tr >
     <td> 余瑞璟 </td>
-    <td> <a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-07-01"> ... </a></td>
+    <td> <a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-07-01"> zkSNARKs based on QAP </a></td>
 </tr>
 
 <tr style="border-top:2px solid;">
