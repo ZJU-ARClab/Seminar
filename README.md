@@ -95,7 +95,7 @@
 </tr>
 <tr >
     <td> 陆涛 </td>
-    <td> <a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-07-08"> ... </a></td>
+    <td> <a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-07-08"> vCNN: Verifiable Convolutional Neural Network based on zk-SNARKs </a></td>
 </tr>
 
 </table>
