@@ -88,14 +88,149 @@
     <td> <a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-07-01"> zkSNARKs based on QAP </a></td>
 </tr>
 
-<tr style="border-top:2px solid;">
+<!-- new -->
+
+<tr style="border-top:2px solid red;">
     <th rowspan=2> 2021/07/08 </th>
-    <td> 徐巧颖 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-07-08"> ... </a></td>
+    <td>   </td>
+    <td><a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-07-08">    </a></td>
 </tr>
 <tr >
     <td> 陆涛 </td>
     <td> <a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-07-08"> vCNN: Verifiable Convolutional Neural Network based on zk-SNARKs </a></td>
+</tr>
+
+<tr style="border-top:2px solid;">
+    <th rowspan=2> 2021/07/15 </th>
+    <td> 徐巧颖 </td>
+    <td><a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-07-15"> ... </a></td>
+</tr>
+<tr >
+    <td> 蒋骁翀</td>
+    <td> <a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-07-15"> ... </a></td>
+</tr>
+
+<tr style="border-top:2px solid;">
+    <th rowspan=2> 2021/07/22 </th>
+    <td> 孙锦涛 </td>
+    <td><a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-07-22"> ... </a></td>
+</tr>
+<tr >
+    <td> 刘剑文</td>
+    <td> <a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-07-22"> ... </a></td>
+</tr>
+
+<tr style="border-top:2px solid;">
+    <th rowspan=2> 2021/07/29 </th>
+    <td> 王淼 </td>
+    <td><a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-07-29"> ... </a></td>
+</tr>
+<tr >
+    <td> 徐天宇 </td>
+    <td> <a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-07-29"> ... </a></td>
+</tr>
+
+<tr style="border-top:2px solid;">
+    <th rowspan=2> 2021/08/05 </th>
+    <td> 宋天泽 </td>
+    <td><a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-08-05"> ... </a></td>
+</tr>
+<tr >
+    <td> 潘承愿 </td>
+    <td> <a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-08-05"> ... </a></td>
+</tr>
+
+<tr style="border-top:2px solid;">
+    <th rowspan=2> 2021/08/12 </th>
+    <td> 李唯贤 </td>
+    <td><a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-08-12">... </a></td>
+</tr>
+<tr >
+    <td> 江鑫楠 </td>
+    <td> <a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-08-12"> ... </a></td>
+</tr>
+
+<tr style="border-top:2px solid;">
+    <th rowspan=2> 2021/08/19 </th>
+    <td> 高祺 </td>
+    <td><a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-08-19"> ... </a></td>
+</tr>
+<tr >
+    <td> 徐巧颖	 </td>
+    <td> <a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-08-19">... </a></td>
+</tr>
+
+<!-- new -->
+	
+<tr style="border-top:2px solid red;">
+    <th rowspan=2> 2021/08/26 </th>
+    <td>  陆涛 </td>
+    <td><a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-08-26">  ...  </a></td>
+</tr>
+<tr >
+    <td> 余瑞璟 </td>
+    <td> <a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-08-26"> ... </a></td>
+</tr>
+
+<tr style="border-top:2px solid;">
+    <th rowspan=2> 2021/09/02 </th>
+    <td> 孙锦涛 </td>
+    <td><a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-09-02"> ... </a></td>
+</tr>
+<tr >
+    <td> 林东宇	 </td>
+    <td> <a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-09-02">... </a></td>
+</tr>
+
+
+<tr style="border-top:2px solid;">
+    <th rowspan=2> 2021/09/09 </th>
+    <td> 刘剑文 </td>
+    <td><a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-09-09"> ... </a></td>
+</tr>
+<tr >
+    <td> 王淼 </td>
+    <td> <a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-09-09">... </a></td>
+</tr>
+
+<tr style="border-top:2px solid;">
+    <th rowspan=2> 2021/09/16 </th>
+    <td> 宋天泽 </td>
+    <td><a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-09-16"> ... </a></td>
+</tr>
+<tr >
+    <td> 潘承愿 </td>
+    <td> <a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-09-16">... </a></td>
+</tr>
+
+<tr style="border-top:2px solid;">
+    <th rowspan=2> 2021/09/23 </th>
+    <td> 蒋骁翀 </td>
+    <td><a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-09-23"> ... </a></td>
+</tr>
+<tr >
+    <td> 高祺 </td>
+    <td> <a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-09-23">... </a></td>
+</tr>
+
+<tr style="border-top:2px solid;">
+    <th rowspan=2> 2021/09/30 </th>
+    <td> 李唯贤 </td>
+    <td><a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-09-30"> ... </a></td>
+</tr>
+<tr >
+    <td> 徐天宇 </td>
+    <td> <a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-09-30">... </a></td>
+</tr>
+
+<tr style="border-top:2px solid;">
+    <th rowspan=2> 2021/10/07 </th>
+    <td> 江鑫楠 </td>
+    <td><a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-10-07"> ... </a></td>
+</tr>
+<tr >
+    <td> 徐巧颖	 </td>
+    <td> <a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-10-07">... </a></td>
 </tr>
 
 </table>
