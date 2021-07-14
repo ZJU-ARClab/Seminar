@@ -106,7 +106,7 @@
     <td><a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-07-15"> ... </a></td>
 </tr>
 <tr >
-    <td> 蒋骁翀</td>
+    <td> 徐天宇 </td>
     <td> <a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-07-15"> ... </a></td>
 </tr>
 
@@ -126,7 +126,7 @@
     <td><a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-07-29"> ... </a></td>
 </tr>
 <tr >
-    <td> 徐天宇 </td>
+    <td> 蒋骁翀 </td>
     <td> <a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-07-29"> ... </a></td>
 </tr>
 
