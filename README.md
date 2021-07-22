@@ -113,7 +113,7 @@
 <tr style="border-top:2px solid;">
     <th rowspan=2> 2021/07/22 </th>
     <td> 孙锦涛 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-07-22"> ... </a></td>
+    <td><a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-07-22"> YOLOv1 Implementation & Introduction to DNN Hardware Accelerator </a></td>
 </tr>
 <tr >
     <td> 刘剑文</td>
