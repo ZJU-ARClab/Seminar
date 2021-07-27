@@ -123,7 +123,7 @@
 <tr style="border-top:2px solid;">
     <th rowspan=2> 2021/07/29 </th>
     <td> 王淼 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-07-29"> ... </a></td>
+    <td><a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-07-29"> FINN: A Framework for Fast, Scalable Binarized Neural Network Inference </a></td>
 </tr>
 <tr >
     <td> 蒋骁翀 </td>
