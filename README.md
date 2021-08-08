@@ -117,7 +117,7 @@
 </tr>
 <tr >
     <td> 刘剑文</td>
-    <td> <a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-07-22"> ... </a></td>
+    <td> <a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-07-22"> git commit specification </a></td>
 </tr>
 
 <tr style="border-top:2px solid;">
