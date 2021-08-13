@@ -133,7 +133,7 @@
 <tr style="border-top:2px solid;">
     <th rowspan=2> 2021/08/12 </th>
     <td> 宋天泽 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-08-12"> ... </a></td>
+    <td><a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-08-12"> High-Throughput CNN on an FPGA by Customized JPEG Compression </a></td>
 </tr>
 <tr >
     <td> 潘承愿 </td>
