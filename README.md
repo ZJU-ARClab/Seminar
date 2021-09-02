@@ -165,7 +165,7 @@
 <tr style="border-top:2px solid red;">
     <th rowspan=2> 2021/09/02 </th>
     <td>  赵明虎 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-09-02">  ...  </a></td>
+    <td><a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-09-02">  PATE and Private-kNN  </a></td>
 </tr>
 <tr >
     <td> 陆涛 </td>
