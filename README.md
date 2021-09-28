@@ -190,7 +190,7 @@
 </tr>
 <tr >
     <td> 王淼 </td>
-    <td> <a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-09-29">... </a></td>
+    <td> <a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-09-29">StateMover: Combining Simulation and Hardware Execution for Efficient FPGA Debugging </a></td>
 </tr>
 
 <tr style="border-top:2px solid;">
