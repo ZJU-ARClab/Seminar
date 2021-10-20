@@ -207,7 +207,7 @@
 </tr>
 <tr >
     <td> 潘承愿 </td>
-    <td> <a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-10-20">... </a></td>
+    <td> <a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-10-20"> TEE简介 </a></td>
 </tr>
 
 <tr style="border-top:2px solid;">
