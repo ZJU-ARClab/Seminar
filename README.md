@@ -203,7 +203,7 @@
 <tr style="border-top:2px solid;">
     <th rowspan=2> 2021/10/20 </th>
     <td> 宋天泽 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-10-20"> ... </a></td>
+    <td><a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-10-20"> Towards a Trusted Execution Environment via Reconfigurable FPGA </a></td>
 </tr>
 <tr >
     <td> 潘承愿 </td>
