@@ -223,7 +223,7 @@
 <tr style="border-top:2px solid;">
     <th rowspan=2> 2021/11/03 </th>
     <td> 徐天宇 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-11-03"> ... </a></td>
+    <td><a href="https://github.com/ZJU-ARClab/Weekly-Papers/tree/main/2021/2021-11-03"> Accessing Cloud with Disaggregated Software-Defined Router </a></td>
 </tr>
 <tr >
     <td> 李唯贤 </td>
