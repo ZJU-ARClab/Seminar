@@ -267,7 +267,7 @@
 <tr style="border-top:2px solid;">
     <th rowspan=2> 2021/12/01 </th>
     <td> 宋天泽 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2021/2021-12-01"> ... </a></td>
+    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2021/2021-12-01"> DarKnight: An Accelerated Framework for Privacy and Integrity Preserving Deep Learning Using Trusted Hardware </a></td>
 </tr>
 <tr >
     <td> 潘承愿 </td>
