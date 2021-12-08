@@ -277,7 +277,7 @@
 <tr style="border-top:2px solid;">
     <th rowspan=2> 2021/12/08 </th>
     <td> 王淼 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2021/2021-12-08"> ... </a></td>
+    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2021/2021-12-08"> Interactive Debugging at IP Block Interfaces in FPGAs </a></td>
 </tr>
 <tr >
     <td> 刘剑文 </td>
