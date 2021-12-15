@@ -292,7 +292,7 @@
 </tr>
 <tr >
     <td> 徐天宇	 </td>
-    <td> <a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2021/2021-12-15">... </a></td>
+    <td> <a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2021/2021-12-15">C10X & Kernel Bypass</a></td>
 </tr>
 
 
