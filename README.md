@@ -213,7 +213,7 @@
 <tr style="border-top:2px solid;">
     <th rowspan=2> 2021/10/27 </th>
     <td> 高祺 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2021/2021-10-27"> ... </a></td>
+    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2021/2021-10-27"> 混合云部署简介 </a></td>
 </tr>
 <tr >
     <td> 蒋骁翀 </td>
@@ -299,7 +299,7 @@
 <tr style="border-top:2px solid;">
     <th rowspan=2> 2021/12/22 </th>
     <td> 高祺 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2021/2021-12-22"> ... </a></td>
+    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2021/2021-12-22"> Shell Tools and Scripting </a></td>
 </tr>
 <tr >
     <td> 蒋骁翀 </td>
