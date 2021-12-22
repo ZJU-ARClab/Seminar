@@ -288,7 +288,7 @@
 <tr style="border-top:2px solid;">
     <th rowspan=2> 2021/12/15 </th>
     <td>  孙锦涛 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2021/2021-12-15"> ... </a></td>
+    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2021/2021-12-15"> PyHGL: a Python-like Hardware Generate Language </a></td>
 </tr>
 <tr >
     <td> 徐天宇	 </td>
