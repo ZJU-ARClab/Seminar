@@ -96,7 +96,7 @@
     <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2022/04/20"> ... </a></td>
 </tr>
 <tr >
-    <td> ... </td>
+    <td> 李文博 </td>
     <td> <a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2022/04/20"> ... </a></td>
 </tr>
 
