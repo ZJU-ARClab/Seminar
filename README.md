@@ -60,7 +60,7 @@
 <tr style="border-top:2px solid;">
     <th rowspan=2> 2022/04/12 </th>
     <td> 宋天泽 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2022/04-12"> ... </a></td>
+    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2022/04-12"> 科研&日常工具分享 </a></td>
 </tr>
 <tr >
     <td> 潘承愿 </td>
