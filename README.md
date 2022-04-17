@@ -64,7 +64,7 @@
 </tr>
 <tr >
     <td> 潘承愿 </td>
-    <td> <a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2022/04-12"> ... </a></td>
+    <td> <a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2022/04-12"> OPERA: Open Remote Attestation for Intel's Secure Enclaves </a></td>
 </tr>
 
 
