@@ -49,7 +49,7 @@
 <tr style="border-top:2px solid;">
     <th rowspan=2> 2022/04/05 </th>
     <td> 赵明虎 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2022/04-05"> ... </a></td>
+    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2022/04-05"> A General Framework for Evaluating Differentially Private Machine Learning </a></td>
 </tr>
 <tr >
     <td> 高祺 </td>
