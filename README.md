@@ -8,7 +8,7 @@
 
 **Location**:   Zetong 103 or DingTalk
 
-**Time**:   Friday, 14:00 - 17:00
+**Time**:   Friday, 15:00 - 16:30
 
 
 <table>
