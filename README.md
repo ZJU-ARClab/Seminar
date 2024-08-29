@@ -25,9 +25,10 @@
     <td> 徐家真 </td>
     <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/08-30"> Building Verifiable Trusted Path on Commodity x86 Computers </a></td>
 </tr>
+
 <tr>
-    <td> 胡翔 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/08-30">  </a></td>
+    <td> 胡祥 </td>
+    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/08-30"> CheckFreq: Frequent, Fine-Grained DNN Checkpointing </a></td>
 </tr>
 
 <tr>
