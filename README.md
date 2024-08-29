@@ -95,7 +95,7 @@
 
 <tr>
     <td> 孟文龙 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/09-27">Droupout Attack </a></td>
+    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/09-27">  </a></td>
 </tr>
 
 
