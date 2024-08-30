@@ -32,7 +32,7 @@
 
 <tr>
     <td>郭镇远 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/08-30">  </a></td>
+    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/08-30">  SMILE: Zero-Shot Sparse Mixture of Low-Rank Experts Construction From Pre-Trained Foundation Models (arXiv2408）</a></td>
 </tr>
 
 <tr style="border-top:2px solid red;">
