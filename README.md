@@ -48,7 +48,7 @@
 
 <tr>
     <td> 施熠 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/09-06">  </a></td>
+    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/09-06">  LongAlign: A Recipe for Long Context Alignment of Large Language Models (arXiv2401) </a></td>
 </tr>
 
 
