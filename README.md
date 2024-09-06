@@ -43,7 +43,7 @@
 </tr>
 <tr>
     <td>蒋骁翀 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/09-06">  </a></td>
+    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/09-06"> InfiniGen: Efficient Generative Inference of Large Language Models with Dynamic KV Cache Management </a></td>
 </tr>
 
 <tr>
