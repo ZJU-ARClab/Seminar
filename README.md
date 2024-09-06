@@ -39,7 +39,7 @@
 <tr style="border-top:2px solid red;">
     <th rowspan=3> 2024/09/06 </th>
     <td> 宋天泽</td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/09-06">  </a></td>
+    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/09-06"> PPMLAC: high performance chipset architecture for secure multi-party computation </a></td>
 </tr>
 <tr>
     <td>蒋骁翀 </td>
