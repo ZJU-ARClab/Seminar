@@ -74,7 +74,7 @@
 </tr>
 <tr>
     <td> 卢炳乾</td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/09-20">  </a></td>
+    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/09-20"> Making Kernel Bypass Practical for the Cloud with Junction </a></td>
 </tr>
 
 <tr>
