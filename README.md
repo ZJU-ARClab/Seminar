@@ -70,7 +70,7 @@
 <tr style="border-top:2px solid red;">
     <th rowspan=3> 2024/09/20 </th>
     <td> 唐铭鸿</td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/09-20"> </a></td>
+    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/09-20">In-Memory Key-Value Store Live Migration with NetMigrate (FAST 2024) </a></td>
 </tr>
 <tr>
     <td> 卢炳乾</td>
