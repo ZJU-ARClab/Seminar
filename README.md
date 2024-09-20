@@ -59,7 +59,7 @@
 </tr>
 <tr>
     <td> 王旭 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/09-13">  </a></td>
+    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/09-13"> TCCL: Discovering Better Communication Paths for PCIe GPU Clusters (ASPLOS 2024) </a></td>
 </tr>
 
 <tr>
