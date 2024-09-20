@@ -55,7 +55,7 @@
 <tr style="border-top:2px solid red;">
     <th rowspan=3> 2024/09/13 </th>
     <td> 彭鹏 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/09-13">  </a></td>
+    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/09-13"> C-FLAT : Control-Flow Attestation for Embedded Systems Software </a></td>
 </tr>
 <tr>
     <td> 王旭 </td>
