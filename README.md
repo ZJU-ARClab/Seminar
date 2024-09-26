@@ -79,7 +79,7 @@
 
 <tr>
     <td>金慧渊</td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/09-20">  </a></td>
+    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/09-20">Budget Recycling Differential Privacy</a></td>
 </tr>
 
 
