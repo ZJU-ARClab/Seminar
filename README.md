@@ -111,7 +111,7 @@
 
 <tr>
     <td> 张子豪 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/10-11">  </a></td>
+    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/10-11"> Proactive Detection of Voice Cloning with Localized Watermarking </a></td>
 </tr>
 
 
