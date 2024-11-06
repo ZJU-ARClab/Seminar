@@ -162,3 +162,127 @@
 
 
 
+<tr style="border-top:2px solid red;">
+    <th rowspan=3> 2024/11/08 </th>
+    <td> 徐家真 </td>
+    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/11-08"> </a></td>
+</tr>
+
+<tr>
+    <td> 胡祥 </td>
+    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/11-08"> </a></td>
+</tr>
+
+<tr>
+    <td>郭镇远 </td>
+    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/11-08">  </a></td>
+</tr>
+
+<tr style="border-top:2px solid red;">
+    <th rowspan=3> 2024/11/15 </th>
+    <td> 宋天泽</td>
+    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/11-15">  </a></td>
+</tr>
+<tr>
+    <td>蒋骁翀 </td>
+    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/11-15">  </a></td>
+</tr>
+
+<tr>
+    <td> 施熠 </td>
+    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/11-15">  </a></td>
+</tr>
+
+
+<tr style="border-top:2px solid red;">
+    <th rowspan=3> 2024/11/22 </th>
+    <td> 彭鹏 </td>
+    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/11-22"> </a></td>
+</tr>
+<tr>
+    <td> 王旭 </td>
+    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/11-22">  </a></td>
+</tr>
+
+<tr>
+    <td> 薛霄楠 </td>
+    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/11-22"> </a></td>
+</tr>
+
+<tr style="border-top:2px solid red;">
+    <th rowspan=3> 2024/11/29 </th>
+    <td> 唐铭鸿</td>
+    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/11-29"> </a></td>
+</tr>
+<tr>
+    <td> 卢炳乾</td>
+    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/11-29">  </a></td>
+</tr>
+
+<tr>
+    <td>金慧渊</td>
+    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/11-29"> </a></td>
+</tr>
+
+
+<tr style="border-top:2px solid red;">
+    <th rowspan=3> 2024/12/06 </th>
+    <td> 樊书国 </td>
+    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/12-06">  </a></td>
+</tr>
+<tr>
+    <td> 叶力铭</td>
+    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/12-06">  </a></td>
+</tr>
+
+<tr>
+    <td> 孟文龙 </td>
+    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/12-06">  </a></td>
+</tr>
+
+
+<tr style="border-top:2px solid red;">
+    <th rowspan=3> 2024/12/13 </th>
+    <td> 吴羽戴翔 </td>
+    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/12-13">  </a></td>
+</tr>
+<tr>
+    <td> 赵启明 </td>
+    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/12-13">  </a></td>
+</tr>
+
+<tr>
+    <td> 张子豪 </td>
+    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/12-13"> </a></td>
+</tr>
+
+
+<tr style="border-top:2px solid red;">
+    <th rowspan=3> 2024/12/20 </th>
+    <td> 潘承愿</td>
+    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/12-20">  </a></td>
+</tr>
+<tr>
+    <td> 陈骊龙</td>
+    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/12-20">  </a></td>
+</tr>
+
+<tr>
+    <td> 李浩宇 </td>
+    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/12-20">  </a></td>
+</tr>
+
+<tr style="border-top:2px solid red;">
+    <th rowspan=3> 2024/12/27 </th>
+    <td> 孔玺畅 </td>
+    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/12-27">  </a></td>
+</tr>
+<tr>
+    <td> 李文博 </td>
+    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/12-27">  </a></td>
+</tr>
+
+<tr>
+    <td> 刘星雨 </td>
+    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/12-27">  </a></td>
+</tr>
