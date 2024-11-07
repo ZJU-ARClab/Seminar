@@ -175,7 +175,7 @@
 
 <tr>
     <td>郭镇远 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/11-08">  </a></td>
+    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/11-08"> Thinking LLMs </a></td>
 </tr>
 
 <tr style="border-top:2px solid red;">
