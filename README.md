@@ -170,7 +170,7 @@
 
 <tr>
     <td> 胡祥 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/11-08"> </a></td>
+    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/11-08"> RedTE: Mitigating Subsecond Traffic Bursts with Real-time and Distributed Traffic Engineering (SIGCOMM 2024) </a></td>
 </tr>
 
 <tr>
