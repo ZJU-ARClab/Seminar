@@ -148,7 +148,7 @@
 <tr style="border-top:2px solid red;">
     <th rowspan=3> 2024/11/01 </th>
     <td> 李文博 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/11-01">  </a></td>
+    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/11-01"> TD-Partitioning-and-SNP-VMPL </a></td>
 </tr>
 <tr>
     <td>  </td>
