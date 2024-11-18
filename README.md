@@ -165,7 +165,7 @@
 <tr style="border-top:2px solid red;">
     <th rowspan=3> 2024/11/08 </th>
     <td> 徐家真 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/11-08"> </a></td>
+    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/11-08">TensorTEE: Unifying Heterogeneous TEE Granularity  for Efficient Secure Collaborative Tensor Computing </a></td>
 </tr>
 
 <tr>
