@@ -185,7 +185,7 @@
 </tr>
 <tr>
     <td>蒋骁翀 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/11-15">  </a></td>
+    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/11-15"> Towards Domain-Specific Network Transport for Distributed DNN Training (NSDI'24) </a></td>
 </tr>
 
 <tr>
