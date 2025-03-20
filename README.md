@@ -1,14 +1,15 @@
 
-# Agenda 2024
+
+# Agenda  2025
 
 - Please upload your **slides** or **introduction (Chinese or English)** of your presentation **one week in advance**, such as **conference, title, abstract**.
 - Please add your shared paper and link in the agenda.
 - 30 minutes for each speaker.
 
 
-**Location**:   Zetong 103 or DingTalk
+**Location**:   Library 706 or DingTalk
 
-**Time**:   Friday, 15:00 - 16:30
+**Time**:   Friday, 14:00 - 15:30
 
 
 <table>
@@ -21,268 +22,116 @@
 
 
 <tr style="border-top:2px solid red;">
-    <th rowspan=3> 2024/08/30 </th>
-    <td> 徐家真 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/08-30"> Building Verifiable Trusted Path on Commodity x86 Computers </a></td>
+    <th rowspan=2> 2025/3/21 </th>
+    <td> 孟文龙 </td>
+    <td><a href=""> </a></td>
 </tr>
 
 <tr>
-    <td> 胡祥 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/08-30"> CheckFreq: Frequent, Fine-Grained DNN Checkpointing </a></td>
-</tr>
-
-<tr>
-    <td>郭镇远 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/08-30">  SMILE: Zero-Shot Sparse Mixture of Low-Rank Experts Construction From Pre-Trained Foundation Models (arXiv2408）</a></td>
+    <td> 郭镇远 </td>
+    <td><a href="">  </a></td>
 </tr>
 
 <tr style="border-top:2px solid red;">
-    <th rowspan=3> 2024/09/06 </th>
-    <td> 宋天泽</td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/09-06"> PPMLAC: high performance chipset architecture for secure multi-party computation </a></td>
-</tr>
-<tr>
-    <td>蒋骁翀 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/09-06"> High-throughput and Flexible Host Networking for Accelerated Computing </a></td>
-</tr>
-
-<tr>
-    <td> 施熠 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/09-06">  LongAlign: A Recipe for Long Context Alignment of Large Language Models (arXiv2401) </a></td>
-</tr>
-
-
-<tr style="border-top:2px solid red;">
-    <th rowspan=3> 2024/09/13 </th>
-    <td> 彭鹏 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/09-13"> C-FLAT : Control-Flow Attestation for Embedded Systems Software </a></td>
-</tr>
-<tr>
-    <td> 王旭 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/09-13"> TCCL: Discovering Better Communication Paths for PCIe GPU Clusters (ASPLOS 2024) </a></td>
+    <th rowspan=2> 2025/3/28 </th>
+    <td> 金慧渊 </td>
+    <td><a href=""> </a></td>
 </tr>
 
 <tr>
     <td> 薛霄楠 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/09-13">Machine Unlearning for Image-to-Image Generative Models</a></td>
+    <td><a href="">  </a></td>
 </tr>
-
 <tr style="border-top:2px solid red;">
-    <th rowspan=3> 2024/09/20 </th>
-    <td> 唐铭鸿</td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/09-20">In-Memory Key-Value Store Live Migration with NetMigrate (FAST 2024) </a></td>
-</tr>
-<tr>
-    <td> 卢炳乾</td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/09-20"> Making Kernel Bypass Practical for the Cloud with Junction </a></td>
-</tr>
-
-<tr>
-    <td>金慧渊</td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/09-20">Budget Recycling Differential Privacy</a></td>
-</tr>
-
-
-<tr style="border-top:2px solid red;">
-    <th rowspan=3> 2024/09/27 </th>
-    <td> 樊书国 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/09-27 ">  </a></td>
-</tr>
-<tr>
-    <td> 叶力铭</td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/09-27">  </a></td>
-</tr>
-
-<tr>
-    <td> 孟文龙 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/09-27"> Efficient Generative Inference of Large Language Models with Dynamic KV Cache Management (OSDI 2024) </a></td>
-</tr>
-
-
-<tr style="border-top:2px solid red;">
-    <th rowspan=3> 2024/10/11 </th>
-    <td> 吴羽戴翔 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/10-11">  </a></td>
-</tr>
-<tr>
-    <td> 赵启明 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/10-11">  Understanding host network stack overheads (SIGCOMM '21) </a></td>
-</tr>
-
-<tr>
+    <th rowspan=2> 2025/4/11 </th>
     <td> 张子豪 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/10-11"> Proactive Detection of Voice Cloning with Localized Watermarking </a></td>
+    <td><a href=""> </a></td>
 </tr>
 
-
+<tr>
+    <td> 施熠</td>
+    <td><a href="">  </a></td>
+</tr>
 <tr style="border-top:2px solid red;">
-    <th rowspan=3> 2024/10/18 </th>
-    <td> 潘承愿</td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/10-18">  </a></td>
-</tr>
-<tr>
-    <td> 陈骊龙</td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/10-18">  </a></td>
+    <th rowspan=2> 2025/4/18 </th>
+    <td> 蒋骁翀 </td>
+    <td><a href=""> </a></td>
 </tr>
 
 <tr>
-    <td> 李浩宇 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/10-18">  </a></td>
+    <td> 赵启明</td>
+    <td><a href="">  </a></td>
 </tr>
-
 <tr style="border-top:2px solid red;">
-    <th rowspan=3> 2024/10/25 </th>
-    <td> 孔玺畅 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/10-25">  </a></td>
-</tr>
-<tr>
-    <td> 张博 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/10-25">  </a></td>
-</tr>
-
-<tr>
-    <td> 刘星雨 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/10-25">  </a></td>
-</tr>
-
-<tr style="border-top:2px solid red;">
-    <th rowspan=3> 2024/11/01 </th>
-    <td> 李文博 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/11-01"> TD-Partitioning-and-SNP-VMPL </a></td>
-</tr>
-<tr>
-    <td>  </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/08-30">  </a></td>
-</tr>
-
-<tr>
-    <td> </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/08-30">  </a></td>
-</tr>
-
-
-
-<tr style="border-top:2px solid red;">
-    <th rowspan=3> 2024/11/08 </th>
-    <td> 徐家真 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/11-08">TensorTEE: Unifying Heterogeneous TEE Granularity  for Efficient Secure Collaborative Tensor Computing </a></td>
-</tr>
-
-<tr>
+    <th rowspan=2> 2025/4/25 </th>
     <td> 胡祥 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/11-08"> </a></td>
+    <td><a href=""> </a></td>
 </tr>
 
 <tr>
-    <td>郭镇远 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/11-08"> Thinking LLMs: General Instruction Following with Thought Generation (arXiv241014) </a></td>
+    <td> 卢炳乾 </td>
+    <td><a href="">  </a></td>
 </tr>
-
 <tr style="border-top:2px solid red;">
-    <th rowspan=3> 2024/11/15 </th>
-    <td> 宋天泽</td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/11-15">  </a></td>
-</tr>
-<tr>
-    <td>蒋骁翀 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/11-15"> Towards Domain-Specific Network Transport for Distributed DNN Training (NSDI'24) </a></td>
-</tr>
-
-<tr>
-    <td> 施熠 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/11-15"> Visual Instruction Tuning (NeurIPS 2023 oral) </a></td>
-</tr>
-
-
-<tr style="border-top:2px solid red;">
-    <th rowspan=3> 2024/11/22 </th>
-    <td> 彭鹏 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/11-22"> </a></td>
-</tr>
-<tr>
+    <th rowspan=2> 2025/5/9 </th>
     <td> 王旭 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/11-22">  </a></td>
+    <td><a href=""> </a></td>
 </tr>
 
-<tr>
-    <td> 薛霄楠 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/11-22"> </a></td>
-</tr>
-
-<tr style="border-top:2px solid red;">
-    <th rowspan=3> 2024/11/29 </th>
-    <td> 唐铭鸿</td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/11-29"> </a></td>
-</tr>
-<tr>
-    <td> 卢炳乾</td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/11-29">  </a></td>
-</tr>
-
-<tr>
-    <td>金慧渊</td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/11-29"> </a></td>
-</tr>
-
-
-<tr style="border-top:2px solid red;">
-    <th rowspan=3> 2024/12/06 </th>
-    <td> 樊书国 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/12-06">  </a></td>
-</tr>
 <tr>
     <td> 叶力铭</td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/12-06">  </a></td>
+    <td><a href="">  </a></td>
+</tr>
+<tr style="border-top:2px solid red;">
+    <th rowspan=2> 2025/5/16 </th>
+    <td> 石劲 </td>
+    <td><a href=""> </a></td>
 </tr>
 
 <tr>
-    <td> 孟文龙 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/12-06">  </a></td>
+    <td>陈桐 </td>
+    <td><a href="">  </a></td>
 </tr>
-
 
 <tr style="border-top:2px solid red;">
-    <th rowspan=3> 2024/12/13 </th>
-    <td> 吴羽戴翔 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/12-13">  </a></td>
-</tr>
-<tr>
-    <td> 赵启明 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/12-13">  </a></td>
-</tr>
-
-<tr>
-    <td> 张子豪 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/12-13"> </a></td>
-</tr>
-
-
-<tr style="border-top:2px solid red;">
-    <th rowspan=3> 2024/12/20 </th>
-    <td> 潘承愿</td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/12-20">  </a></td>
-</tr>
-<tr>
-    <td> 陈骊龙</td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/12-20">  </a></td>
+    <th rowspan=2> 2025/5/23 </th>
+    <td> 刘星雨 </td>
+    <td><a href=""> </a></td>
 </tr>
 
 <tr>
     <td> 李浩宇 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/12-20">  </a></td>
+    <td><a href="">  </a></td>
 </tr>
 
 <tr style="border-top:2px solid red;">
-    <th rowspan=3> 2024/12/27 </th>
-    <td> 孔玺畅 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/12-27">  </a></td>
-</tr>
-<tr>
-    <td> 李文博 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/12-27">  </a></td>
+    <th rowspan=2> 2025/5/30 </th>
+    <td> 唐铭鸿 </td>
+    <td><a href=""> </a></td>
 </tr>
 
 <tr>
-    <td> 刘星雨 </td>
-    <td><a href="https://github.com/ZJU-ARClab/Seminar/tree/main/2024/12-27">  </a></td>
+    <td> 宋天泽 </td>
+    <td><a href="">  </a></td>
+</tr>
+<tr style="border-top:2px solid red;">
+    <th rowspan=2> 2025/6/6 </th>
+    <td> 樊书国 </td>
+    <td><a href=""> </a></td>
+</tr>
+
+<tr>
+    <td> 徐家真 </td>
+    <td><a href="">  </a></td>
+</tr>
+
+<tr style="border-top:2px solid red;">
+    <th rowspan=2> 2025/6/13 </th>
+    <td> 彭鹏  </td>
+    <td><a href=""> </a></td>
+</tr>
+
+<tr>
+    <td> TBD </td>
+    <td><a href="">  </a></td>
 </tr>
