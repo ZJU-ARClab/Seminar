@@ -135,3 +135,160 @@
     <td> TBD </td>
     <td><a href="">  </a></td>
 </tr>
+
+<tr style="border-top:2px solid red;">
+
+
+
+<table>
+<tr>
+    <th> Date </th>
+    <th> Speaker </th>
+    <th style="width:600px;"> Title </th>
+</tr>
+
+<tr style="border-top:2px solid red;">
+    <th rowspan=2> 2025/8/8 </th>
+    <td> 郭镇远 </td>
+    <td><a href=""> </a></td>
+</tr>
+
+<tr>
+    <td> 施熠 </td>
+    <td><a href="">  </a></td>
+</tr>
+
+<tr style="border-top:2px solid red;">
+    <th rowspan=2> 2025/8/15 </th>
+    <td> 徐家真 </td>
+    <td><a href=""> </a></td>
+</tr>
+
+<tr>
+    <td> 宋天泽 </td>
+    <td><a href="">  </a></td>
+</tr>
+
+　
+
+<tr style="border-top:2px solid red;">
+    <th rowspan=2> 2025/8/22 </th>
+    <td> 蒋骁翀 </td>
+    <td><a href=""> </a></td>
+</tr>
+
+<tr>
+    <td> 付思瀚 </td>
+    <td><a href="">  </a></td>
+</tr>
+
+
+<tr style="border-top:2px solid red;">
+    <th rowspan=2> 2025/8/29 </th>
+    <td> 王旭 </td>
+    <td><a href=""> </a></td>
+</tr>
+
+<tr>
+    <td> 叶力铭 </td>
+    <td><a href="">  </a></td>
+</tr>
+
+
+<tr style="border-top:2px solid red;">
+    <th rowspan=2> 2025/9/5 </th>
+    <td>陈桐 </td>
+    <td><a href=""> </a></td>
+</tr>
+
+<tr>
+    <td> 石劲</td>
+    <td><a href="">  </a></td>
+</tr>
+
+
+<tr style="border-top:2px solid red;">
+    <th rowspan=2> 2025/9/12 </th>
+    <td> 刘星雨</td>
+    <td><a href=""> </a></td>
+</tr>
+
+<tr>
+    <td>李浩宇 </td>
+    <td><a href="">  </a></td>
+</tr>
+
+<tr style="border-top:2px solid red;">
+    <th rowspan=2> 2025/9/19 </th>
+    <td>唐铭鸿 </td>
+    <td><a href=""> </a></td>
+</tr>
+
+<tr>
+    <td>樊书国 </td>
+    <td><a href="">  </a></td>
+</tr>
+
+<tr style="border-top:2px solid red;">
+    <th rowspan=2> 2025/9/26 </th>
+    <td> 胡祥</td>
+    <td><a href=""> </a></td>
+</tr>
+
+<tr>
+    <td> 卢炳乾 </td>
+    <td><a href="">  </a></td>
+</tr>
+
+<tr style="border-top:2px solid red;">
+    <th rowspan=2> 2025/10/10 </th>
+    <td> 彭鹏</td>
+    <td><a href=""> </a></td>
+</tr>
+
+<tr>
+    <td> 张子豪</td>
+    <td><a href="">  </a></td>
+</tr>
+
+<tr style="border-top:2px solid red;">
+    <th rowspan=2> 2025/10/17 </th>
+    <td> 金慧渊</td>
+    <td><a href=""> </a></td>
+</tr>
+
+<tr>
+    <td> 薛霄楠 </td>
+    <td><a href="">  </a></td>
+</tr>
+
+<tr style="border-top:2px solid red;">
+    <th rowspan=2> 2025/10/24 </th>
+    <td> 赵启明</td>
+    <td><a href=""> </a></td>
+</tr>
+
+<tr>
+    <td> TBD </td>
+    <td><a href="">  </a></td>
+</tr>
+
+<tr style="border-top:2px solid red;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
