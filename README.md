@@ -149,7 +149,7 @@
 
 
 <tr style="border-top:2px solid red;">
-    <th rowspan=2> 2025/8/15 </th>
+    <th rowspan=2> 2025/9/19 </th>
     <td> 徐家真 </td>
     <td><a href=""> </a></td>
 </tr>
